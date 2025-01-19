@@ -10,14 +10,10 @@ Welcome to the **OM Wallet** project repositories! This documentation covers two
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Features](#features)
 - [Getting Started](#getting-started)
   - [OM Wallet Flutter App](#om-wallet-flutter-app)
   - [WalletAPI](#walletapi)
 - [Folder Structure](#folder-structure)
-- [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
